@@ -14,16 +14,17 @@ public class Switchcase2{
 					break;
 			case "23MAT116":System.out.println("Your course faculty is Kiruthika mam");
 					break;
-			case "23MAT117":System.out.println("Your course faculty is Muthuselvan sir");
+			case "23MAT117":System.out.println("Your course faculty is Swetha mam");
 					break;
-			case "23ENG101":System.out.println("Your course faculty is Hariharan sir");
+			case "23ENG101":System.out.println("Your course faculty is Jayalakshmi mam");
 					break;
 			case "23MEE115":System.out.println("Your course faculty is Vignesh sir");
 					break;
-			case "23PHY115":System.out.println("Your course faculty is Kushbu mam");
+			case "23PHY115":System.out.println("Your course faculty is Kushbu Das mam");
 					break;
-			default:System.out.println("Your class advisor is Nirmal sir");
+			default:System.out.println("Your class advisor is Natrajan sir");
 
 		}
 	}
+
 }
