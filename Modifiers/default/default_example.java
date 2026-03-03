@@ -1,0 +1,7 @@
+//default
+class Default_example{
+    int speed; // default access
+    public static void main(String[] args){
+	System.out.println("This is default modifier example");
+    }
+}
