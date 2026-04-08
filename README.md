@@ -37,7 +37,13 @@ Each lab session is organized into separate folders with corresponding programs 
 - Case Study Programs  
   - Train Ticket Booking  
   - Shopping Bill  
-
+- polymorphism
+  - method overiding
+  - method overloading
+- abstraction
+   - abstract classes
+   - interface concepts
+- encapsulation
 ---
 
 ##  Repository Structure
